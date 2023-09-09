@@ -1,6 +1,6 @@
-
-## Site preview
 [`https://anandaarya-dshore-interview.netlify.app/`](https://anandaarya-dshore-interview.netlify.app/)
+## Site preview
+![Alt text](https://ucarecdn.com/b66bad6b-4427-4650-a458-66a9023038a0/-/preview/1000x400/-/format/auto/-/quality/smart_retina/)
 
 ## Getting Started
 
